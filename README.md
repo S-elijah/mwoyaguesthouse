@@ -9,11 +9,3 @@ Mwoya Guest House offers clean, comfortable accommodation for travelers alongsid
 
 ## 🛠️ Built With
 - **Frontend:** HTML5, CSS3, JavaScript
-
-## 📦 Getting Started
-
-To view or work with the project locally:
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/S-elijah/mwoyaguesthouse.git](https://github.com/S-elijah/mwoyaguesthouse.git)
